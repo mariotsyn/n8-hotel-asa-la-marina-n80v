@@ -1,0 +1,107 @@
+{
+  "business": {
+    "name": "Hotel ASA La Marina",
+    "tagline": "Tu refugio de confort y calma en Alicante.",
+    "description": "Descubre Hotel ASA La Marina, un oasis de tranquilidad en el corazón de Alicante. Disfruta de una estancia inolvidable con instalaciones de primera y un servicio que nos ha valido una calificación de 4.6 estrellas.",
+    "phone": "",
+    "address": "Carrer Alcalalí, 9, 03760, Alicante, España",
+    "email": "reservas@asahotel-lamarina.es",
+    "rating": 4.6,
+    "reviewCount": 62,
+    "hours": [
+      "Reservas: Lun-Vie 9:00-21:00",
+      "Sáb-Dom: 10:00-18:00"
+    ]
+  },
+  "theme": {
+    "primary": "#0A2463",
+    "secondary": "#242424",
+    "accent": "#E2B887",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Tu escapada perfecta junto al Mediterráneo te espera.",
+    "subheadline": "Disfruta de una estancia de lujo, confort excepcional y la hospitalidad que nos distingue en el corazón de Alicante.",
+    "cta1": {
+      "text": "Reservar Ahora",
+      "href": "#contact"
+    },
+    "cta2": {
+      "text": "Ver Habitaciones",
+      "href": "#services"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80"
+  },
+  "services": [
+    {
+      "icon": "🛏️",
+      "title": "Habitaciones de Diseño",
+      "description": "Nuestras habitaciones están diseñadas para tu máximo descanso. Equipadas con todas las comodidades modernas para una estancia inolvidable."
+    },
+    {
+      "icon": "🏊",
+      "title": "Piscina y Solárium",
+      "description": "Relájate en nuestra espectacular piscina exterior. Un espacio perfecto para desconectar y disfrutar del sol de Alicante."
+    },
+    {
+      "icon": "🍽️",
+      "title": "Gastronomía Mediterránea",
+      "description": "Degusta los sabores auténticos del Mediterráneo en nuestro restaurante. Ingredientes frescos y platos que deleitarán tu paladar."
+    },
+    {
+      "icon": "📍",
+      "title": "Ubicación Privilegiada",
+      "description": "Situados a pocos pasos de la marina y las principales atracciones. Explora lo mejor de Alicante con total comodidad."
+    }
+  ],
+  "about": {
+    "title": "Donde la Hospitalidad se Encuentra con el Mar",
+    "text": "Desde nuestra fundación, en Hotel ASA La Marina hemos tenido una única misión: ofrecer a nuestros huéspedes una experiencia que combine el confort moderno con el encanto auténtico de Alicante. Somos un equipo apasionado por la hospitalidad, dedicado a cuidar cada detalle para que tu única preocupación sea disfrutar.\n\nNuestra filosofía se basa en la excelencia y la atención personalizada. Con una valoración de 4.6 estrellas, nos enorgullece ser un referente de calidad en la zona. Creemos que una gran estancia se compone de pequeños momentos, desde el saludo en recepción hasta la comodidad de nuestras instalaciones. Te invitamos a descubrir por qué nuestros huéspedes nos eligen año tras año.",
+    "imageUrl": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1200&q=80"
+  },
+  "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200&q=80",
+      "alt": "Mujer relajándose en la piscina del hotel con vistas"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+      "alt": "Luminoso y moderno lobby del Hotel ASA La Marina"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80",
+      "alt": "Vistas a la ciudad de Alicante desde el hotel"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80",
+      "alt": "Fachada moderna del Hotel ASA La Marina"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Laura Gómez",
+      "stars": 5,
+      "text": "Una experiencia fantástica. La atención del personal fue inmejorable y la habitación era muy cómoda y limpia. ¡Volveremos!"
+    },
+    {
+      "name": "Javier Martín",
+      "stars": 5,
+      "text": "La ubicación es perfecta para explorar Alicante. La piscina es un lujo y el ambiente general es de total tranquilidad."
+    },
+    {
+      "name": "Sofía Nuñez",
+      "stars": 4,
+      "text": "Un hotel muy agradable y bien cuidado. El desayuno podría tener más variedad, pero en general, una estancia muy positiva."
+    }
+  ],
+  "contact": {
+    "title": "¿Listo para tu escapada a Alicante?",
+    "subtitle": "Contacta con nosotros para resolver tus dudas o realiza tu reserva directamente. Nuestro equipo está listo para atenderte.",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "Hotel ASA La Marina Carrer Alcalalí, 9, 03760, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Hotel ASA La Marina"
+  }
+}
